@@ -7,7 +7,13 @@ A repository containing a strategy on how MTN Cote D'Ivore is going to upgrade i
 # Installation Requirements
 
 Use Google Colab or Jupyter Notebook for data preparation and analysis.
+
 Import pandas and Numpy libraries for data manipulation.
+
 Loading datasets and previewing datasets.
+
 Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
+
 Create a new column to separate data_time column
+
+# Technologies used
