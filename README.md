@@ -4,7 +4,11 @@
 
 A repository containing a strategy on how MTN Cote D'Ivore is going to upgrade its infrastructure within cities in the given datasets.
 
+![](https://forthebadge.com/images/badges/check-it-out.svg)
+
 # Installation Requirements
+```
+
 
 Use Google Colab or Jupyter Notebook for data preparation and analysis.
 
@@ -15,5 +19,6 @@ Loading datasets and previewing datasets.
 Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
 
 Create a new column to separate data_time column
+```
 
 # Technologies used
